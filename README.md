@@ -1,14 +1,14 @@
 {
   "dir": "ltr",
   "lang": "English",
-  "name": "Himani Manhas",
-  "short_name": "Himani Manhas",
+  "name": "sumit yadav",
+  "short_name": "sumit yadav",
   "scope": "/",
   "display": "standalone",
-  "start_url": "https://himanimanhas.github.io/",
+  "start_url": "https://github.com/sumityadav112",
   "background_color": "#d4b7b0",
   "theme_color": "#009c77",
-  "description": "Free Like a Dandellion",
+  "description": "पार्थ जैसा स्वतंत्र,कर्ण जैसा बद्ध",
   "orientation": "portrait",
   "related_applications": [],
   "prefer_related_applications": false,
@@ -24,6 +24,8 @@
       "type": "image/png"
     }
   ],
-  "url": "https://himanimanhas.github.io",
+  "url": "https://github.com/sumityadav112
+https://github.com/sumityadav112
+",
   "screenshots": []
 }
